@@ -1,0 +1,6 @@
+review_id,product_id,user_id,review_text,rating,review_date
+R1,P1,U1,"Great product, highly recommend!",5,2023-01-01
+R2,P2,U2,"Terrible experience, do not buy!",1,2023-01-15
+R3,P1,U3,"Average quality, but good for the price.",3,2023-02-10
+R4,P3,U1,Excellent quality and fast delivery!,5,2023-03-05
+R5,P2,U4,"Not what I expected, very disappointed.",2,2023-04-20
